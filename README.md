@@ -1,0 +1,3 @@
+# Tailwind CSS Responsive Design Conflict
+
+This repository demonstrates a common issue encountered when working with Tailwind CSS's responsive design features. The problem arises from conflicting styles applied across different screen sizes, leading to unexpected visual behavior.  The `responsive-bug.html` file showcases the problem, while `responsive-solution.html` offers a solution using proper style prioritization and specificity.
